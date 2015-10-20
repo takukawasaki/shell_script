@@ -1,0 +1,27 @@
+nic_ipaddr.sh ;; ネットワークインターフェースとアドレスを表示
+
+sep_cut.sh ;; サーバーに作成済みのユーザーアカウントを取得する
+
+id_script.sh ;; 許可するユーザーのみスクリプトを実行可能とする
+
+shutdown.sh ;; system shutdown
+
+rpm_compkg.sh ;; rpmパッケージ名を調べる
+
+rpm_lastupdate.sh ;; rpm パッケージがインストール更新された日付を調べる
+
+yum_install.sh ;; パッケージのインストール　
+
+process_alive.sh ;; 特定のプロセスが停止していないか監視する
+
+process_numcheck.sh ;; 特定プロセスの起動本数を確認
+
+process_restart.sh ;; process down 時　自動再起動
+
+df_diskcheck.sh ;; ディスクの容量監視を行う
+
+swapcheck.sh ;; メモリスワップ監視
+
+cpu_idlecheck ;; cpu 使用率の監視
+
+mysql_backup.sh ;; mysql の　バックアップ

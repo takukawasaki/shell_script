@@ -1,0 +1,4 @@
+for_command.sh ;; 外部ファイルを読み込みping 送信
+
+number_file.sh ;; 連番のファイル名をもつurlを自動生成して順にダウンロード
+

@@ -1,0 +1,27 @@
+qwping_linux ;; デフォルトゲートウェイニping が通るかテストする
+gwping.sh ;; same
+
+pingavg.sh ;; 特定ホストにping の平均応答時間を計測する
+
+arp.sh ;; arpテーブルから指定ipアドレスに対応するmacアドレスを表示
+
+hostip.sh ;; ホスト名からip address 取得
+
+revlookup.sh ;; ipからホストを逆引き
+
+checkport.sh ;; ポートに通信できるかチェック
+
+port_httpd.sh ;; test tcp-server
+
+autoftp.sh ;; ftpで自動ダウンロード自動アップロードを行う
+
+cgi.sh ;; make cgi
+
+transfer_sec.sh ;; 指定したサイズのファイルを作り転送速度を測定する
+
+script_remote.sh check_server.sh ;; ローカルのシェルスクリプトをリモーとで実行する
+
+ipmatch.sh ;; ipアドレスによる処理分岐をcase文で書く
+
+
+ 

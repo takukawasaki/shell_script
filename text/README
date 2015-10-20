@@ -1,0 +1,35 @@
+reverse_sort.sh ;; ID の末尾文字でソート
+
+env.sh ;; 区切り文字を指定してカラムをとり出す
+
+shebang.sh ;;　シバンに応じて拡張子を付加
+
+paste.sh ;; ハッシュ値を行ごとに追加カラムとして出力
+
+csv_select.sh ;; csv ファイルから指定した特定レコードのカラム値を得る
+
+csv.list.sh ;; csvファイルにアイディーのカラム値をえる
+
+csv_avg.sh ;; csvファイルから平均値を計算する
+
+csv_graph.sh ;; csvファイルから*を利用して簡単なテキストグラフを生成する
+
+log_column.sh ;; ログファイルのカラム位置を入れ替えて見やすく加工する
+
+
+
+
+log_select.sh ;; ログファイルから特定のステータスコードを返しているものを取得
+
+log_access.sh ;; アクセスログからファイルごとのアクセス回数を集計する
+
+
+text2html.sh ;; textからhtml生成
+
+dellineJS.sh ;; jsファイルから空行を削除
+
+num_hyphn.sh ;; きまった桁数の数字にハイフンを入れる
+
+charset_utf8.sh ;; html ファイルをutf-8に変換する
+
+

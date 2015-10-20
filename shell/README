@@ -1,0 +1,16 @@
+sig-usr.sh ;; スクリプト実行中にシグナルを受け入れ実行状態を出力
+
+sig_hup.sh ;; HUP シグナルを受け取って設定ファイルを読み込み直す
+
+sig_exit.sh ;; 異常終了してもゴミが残らないよう作業ファイルを消す
+
+os_command.sh ;; 移植性を考慮して外部コマンドを利用する
+
+echo_redirect.sh ;; リダイレクトが煩雑にならないようにグルーピングする
+
+background_download.sh ;; 並列ダウンロード
+
+background_wait.sh ;; 並列ping & wait 同期
+
+
+

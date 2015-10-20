@@ -1,0 +1,14 @@
+get_opt.sh ;; コマンドオプションのしょり
+sigint.sh ;; キーボードからコントロールcが押されたら現在の状態を出力
+read.sh ;;キーボードからキー入力を取得して変数の値として利用する
+ncfrp.sh ;; password 入力野際入力を表示しない
+getchar.sh ;;　ユーザーのキー入力を１文字だけ取得する
+read_redirect.sh ;; file から読み込んで処理をしている時キーボードからの入力をする
+
+select.sh ;; 選択式のmenuを表示して入力された数値の処理を実行する
+color.sh ;; 文字色を変える
+dialog_cal.sh ;; カレンダーをえらんで　特定のログファイルをさくじょ
+
+tar_pv.sh ;;progress bar を表示
+
+
